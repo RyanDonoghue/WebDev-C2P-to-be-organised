@@ -1,0 +1,67 @@
+ body {
+         background-image: url("cloud.jpg")
+			
+       }
+	 
+	 h1  {
+	 text-align: center;
+	 color : red;
+		}
+			
+			
+	img.sun {
+	position: fixed;
+	left:1250px;
+	bottom: 600px;
+    width: 180px;
+	height: 180px;
+
+			}
+	
+	img.grass{
+	position: fixed;
+	top: 600px;
+	left:0px;
+	width: 1500px;
+	z-index: 1;
+	}
+	
+	img.man {
+	position: fixed;
+	left:450px;
+	bottom: 180px;
+    width: 160px;
+	height: 160px;
+
+			}
+			
+	img.cow {
+	position: fixed;
+	left:1150px;
+	bottom: 10px;
+    width: 140px;
+	height: 140px;
+	z-index: 2;
+			}
+			
+	img.sheep {
+	position: fixed;
+	left:200px;
+	bottom: 120px;
+    width: 140px;
+	height: 140px;
+	z-index: 2;
+
+			}
+			
+	img.tree {
+	position: fixed;
+	left:750px;
+	bottom: 100px;
+    width: 340px;
+	height: 440px;
+	z-index: 2;
+			}
+	
+	
+	

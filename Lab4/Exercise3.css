@@ -1,0 +1,65 @@
+#header  {
+	background-color: aqua;
+	border-width: 2px;
+	border-color: red;
+	padding: 5px;
+	border-style: solid;
+	}
+
+#nav {
+	background-color: pink;
+	height: 20px;
+	border-width: 2px;
+	border-color: red;
+	border-style: solid;
+	}
+	
+	
+#figure {
+	float: right;
+	margin: 0 1.5%;
+    width: 30%;
+	background-color: green;
+	height: 250px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: purple;
+
+		}
+		
+#article {
+	float: left;
+    margin: 0 1.5%;
+    width: 63%;
+	border-style: dotted;
+	border-width: 2px;
+	border-color: blue;
+		}
+		
+#aside {
+	float: right;
+	margin: 0 1.5%;
+    width: 30%;
+	background-color:purple;
+	width: 300px;
+    padding: 5px;
+    border: 1px solid navy;
+    margin: 5px;
+		}		
+		
+#section {
+	float: left;
+    margin: 0 1.5%;
+    width: 63%;
+	border-style: dashed;
+	border-width: 2px;
+	border-color: blue;
+		}
+
+#footer {
+	background-color:purple;
+	width: 300px;
+    padding: 5px;
+    border: 1px solid navy;
+    margin: 5px;
+}	

@@ -1,0 +1,15 @@
+p.a {
+	border-style: solid;
+	border-width: medium;
+	width; 450px;
+}
+img.a {
+	border-style: dotted;
+	color: blue;
+	float: right;
+	margin: 0 0 10px 10px;
+	}
+img.b {
+	float: left;
+	margin: 0 0 10px 10px;
+	}

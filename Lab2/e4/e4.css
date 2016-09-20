@@ -1,0 +1,55 @@
+div.borderbox 		{
+    width: 500px;
+	height: 500px;
+    border: 2px red;
+	margin-left; 120px;
+			}
+		
+	img.ten {
+	position: absolute;
+	left:550px;
+	bottom: 280px;
+    width: 160px;
+	height: 160px;
+	
+			}
+	
+	img.jack{
+	position: absolute;
+	left:580px;
+	bottom: 250px;
+    width: 160px;
+	height: 160px;
+	z-index: 1;
+
+			}
+	
+	img.queen {
+	position: absolute;
+	left:610px;
+	bottom: 220px;
+    width: 160px;
+	height: 160px;
+	z-index: 1;
+
+			}
+			
+	img.king {
+	position: absolute;
+	left:640px;
+	bottom: 190px;
+    width: 160px;
+	height: 160px;
+	z-index: 1;
+
+			}
+					
+	img.ace {
+	position: absolute;
+	left:670px;
+	bottom: 160px;
+    width: 160px;
+	height: 160px;
+	z-index: 1;
+
+			}
