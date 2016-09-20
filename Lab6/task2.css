@@ -1,0 +1,22 @@
+body {
+
+}
+
+h1 {
+	color: 
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+h2 {
+	color: #FFFF33;
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+img.ITC{
+	position: fixed;
+	width: 400px;
+	height: 400px;
+	left: 600px;
+}

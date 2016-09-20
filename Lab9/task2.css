@@ -1,0 +1,30 @@
+/* 	Paul Cleary
+	C00189984
+	14/01/16	*/
+
+body
+{
+    font: 100% Helvetica, sans-serif;
+	background-color: #265D71;
+	color: #fff;
+}
+#container
+{
+    width: 100%;
+}
+#box_1
+{
+    text-align: center;
+    color: #fff;
+    height: 500px;
+}
+#vertical_align
+{
+    position: relative;
+    top: 50% ;
+    transform: translateY(-50%);  /* this makes the div center vertically */
+}
+#out{
+    color: #fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}

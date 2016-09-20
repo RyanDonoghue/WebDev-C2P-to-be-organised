@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<script>
+			var input ;
+			var numRes = 0;
+			var numVal = 0;
+			var numPass = 0;
+			var numFail = 0;
+			
+			
+			input = prompt("Please enter a result","");
+			while (input != 0)
+			{
+				numRes++ ;
+				if (input >= 0 && input <= 100)
+				{
+					numVal++ ;
+					if (input >= 40 )
+					{
+						numPass++ ;
+					}
+					else
+					{
+						numFail++ ;
+					}
+				}
+			
+				input = prompt("Please enter a result","");
+			}
+			document.write("Number of results:" + numRes ,"");
+			document.write("Number of valid results:" + numVal ,"");
+			document.write("Number of pass:" + numPass ,"");
+			document.write("Number of fail:" + numFail ,"");
+		</script>
+	</head>
+	
+	<body>
+	</body>
+</html>

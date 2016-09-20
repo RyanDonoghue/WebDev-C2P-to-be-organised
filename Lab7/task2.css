@@ -1,0 +1,27 @@
+/* Paul Cleary
+   C00188810 
+   Lab 6 Task 2 
+   09/12/2015 
+              */
+body {
+
+}
+
+h1 {
+	color: 
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+h2 {
+	color: #FFFF33;
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+img.ITC{
+	position: fixed;
+	width: 400px;
+	height: 400px;
+	left: 600px;
+}

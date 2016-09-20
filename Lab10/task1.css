@@ -1,0 +1,37 @@
+body{
+	background-image: url("background1.jpg");
+}
+
+label{
+    display: inline-block;
+    width: 150px;
+	
+}
+
+#b{
+    border: 2px solid red;
+}
+
+#details{
+	font-family: "times new roman", Helvetica, sans-serif;
+	width: 400px;
+	height: 500px;
+	margin: 0 auto;
+	border: 4px solid orange;
+	padding-left: 20px;
+	padding-top: 40px;
+	
+
+}
+
+#number{
+	border: 2px solid blue;
+}
+
+#address{
+	border: 2px solid blue;
+}
+
+#availability{
+	border: 2px solid blue;
+}
